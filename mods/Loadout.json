@@ -2,7 +2,26 @@
   "Infos": {
     "Version_Loadout": "1:0"
   },
-  "Permissions": [],
+  "Permissions": [
+    {
+      "license": "854782889727885312",
+      "user_id": "854782889727885312",
+      "user_tag": "meiamao",
+      "adress_ip": "192.168.0.1",
+      "datetoexpire": "20/02/2026",
+      "role_id": "1406456490436460566",
+      "role_name": "MODS - VIP LOADOUT",
+      "guild_id": "1208894087512588359",
+      "guild_name": "NK Area",
+      "enable": 1,
+      "expired_at": null,
+      "notified_before": null,
+      "notified_before_days": [],
+      "notified_expired": null,
+      "created_at": "2026-02-16T19:01:42.631Z",
+      "updated_at": "2026-02-16T19:01:42.631Z"
+    }
+  ],
   "DefaultRole": {
     "role_id": "1406456490436460566",
     "role_name": "MODS - VIP LOADOUT",

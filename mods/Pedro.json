@@ -1,0 +1,12 @@
+{
+  "Infos": {
+    "Version_Pedro": "1:0"
+  },
+  "Permissions": [],
+  "DefaultRole": {
+    "role_id": "1208898715780251648",
+    "role_name": "Clientes",
+    "guild_id": "1208894087512588359",
+    "guild_name": "NK Area"
+  }
+}

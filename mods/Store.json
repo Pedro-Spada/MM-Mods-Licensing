@@ -5,7 +5,7 @@
   "Permissions": [
     {
       "adress_ip": "999",
-      "enable": 1,
+      "enable": 0,
       "user_tag": "meiamao"
     }
   ]

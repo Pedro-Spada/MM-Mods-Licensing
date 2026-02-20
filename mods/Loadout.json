@@ -2,5 +2,11 @@
   "Infos": {
     "Version_Loadout": "1:0"
   },
-  "Permissions": []
+  "Permissions": [
+    {
+      "adress_ip": "170.238.163.70",
+      "enable": 1,
+      "user_tag": "rafa.xavier520"
+    }
+  ]
 }

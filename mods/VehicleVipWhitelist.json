@@ -2,5 +2,11 @@
   "Infos": {
     "Version_VehicleVipWhitelist": "1:0"
   },
-  "Permissions": []
+  "Permissions": [
+    {
+      "adress_ip": "195.23.64.221",
+      "enable": 1,
+      "user_tag": "meiamao"
+    }
+  ]
 }

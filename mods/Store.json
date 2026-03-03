@@ -32,6 +32,11 @@
       "adress_ip": "45.4.113.216",
       "enable": 1,
       "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "168.194.43.150",
+      "enable": 1,
+      "user_tag": "meiamao"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "Infos": {
+    "Version_Teste": "1:0"
+  },
+  "Permissions": [
+    {
+      "adress_ip": "9999",
+      "enable": 1,
+      "user_tag": "999"
+    }
+  ]
+}

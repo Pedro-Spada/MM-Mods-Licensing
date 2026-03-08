@@ -2,11 +2,5 @@
   "Infos": {
     "Version_mm-store": "1:1"
   },
-  "Permissions": [
-    {
-      "adress_ip": "192.168.0.1",
-      "enable": 1,
-      "user_tag": "alpha_zzzzzzz"
-    }
-  ]
+  "Permissions": []
 }

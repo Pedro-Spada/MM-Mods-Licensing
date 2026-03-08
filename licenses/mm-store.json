@@ -1,9 +1,6 @@
-[
-  {
-    "licenseId": "cmmhvmgc60004b4ri75gwkhmt",
-    "userId": "cmmhpea1s0000f6hcz74xwqei",
-    "ips": [],
-    "expiresAt": null,
-    "active": true
-  }
-]
+{
+  "Infos": {
+    "Version_mm-store": "1:1"
+  },
+  "Permissions": []
+}

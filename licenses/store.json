@@ -2,11 +2,5 @@
   "Infos": {
     "Version_store": "1:5"
   },
-  "Permissions": [
-    {
-      "adress_ip": "192.168.0.1",
-      "enable": 1,
-      "user_tag": "meiamao"
-    }
-  ]
+  "Permissions": []
 }

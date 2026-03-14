@@ -1,6 +1,47 @@
 {
   "Infos": {
-    "Version_Store": "1:5"
+    "Version_Store": "1:1"
   },
-  "Permissions": []
+  "Permissions": [
+    {
+      "adress_ip": "37.189.27.54",
+      "enable": 1,
+      "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "170.238.163.70",
+      "enable": 1,
+      "user_tag": "rafa.xavier520"
+    },
+    {
+      "adress_ip": "148.69.202.131",
+      "enable": 0,
+      "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "195.23.64.221",
+      "enable": 1,
+      "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "64.31.60.76",
+      "enable": 1,
+      "user_tag": "jaovic"
+    },
+    {
+      "adress_ip": "45.4.113.216",
+      "enable": 1,
+      "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "168.194.43.150",
+      "enable": 1,
+      "user_tag": "meiamao"
+    },
+    {
+      "adress_ip": "193.19.205.171",
+      "enable": 1,
+      "user_tag": "meiamao"
+    }
+  ]
 }

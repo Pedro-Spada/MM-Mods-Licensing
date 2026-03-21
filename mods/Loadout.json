@@ -4,11 +4,6 @@
   },
   "Permissions": [
     {
-      "adress_ip": "170.238.163.70",
-      "enable": 1,
-      "user_tag": "rafa.xavier520"
-    },
-    {
       "adress_ip": "195.23.64.221",
       "enable": 1,
       "user_tag": "meiamao"

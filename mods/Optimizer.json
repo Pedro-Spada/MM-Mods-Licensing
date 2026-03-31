@@ -1,0 +1,12 @@
+{
+  "Infos": {
+    "Version_Optimizer": "1:0"
+  },
+  "Permissions": [
+    {
+      "adress_ip": "85.246.43.34",
+      "enable": 1,
+      "user_tag": "pedro_spada"
+    }
+  ]
+}

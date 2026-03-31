@@ -2,11 +2,5 @@
   "Infos": {
     "Version_ZombieEvolution": "1.0.0"
   },
-  "Permissions": [
-    {
-      "adress_ip": "37.189.27.54",
-      "enable": 1,
-      "user_tag": "meiamao"
-    }
-  ]
+  "Permissions": []
 }

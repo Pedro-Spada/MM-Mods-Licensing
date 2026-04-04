@@ -27,6 +27,11 @@
       "adress_ip": "37.189.27.54",
       "enable": 1,
       "user_tag": "pedro_spada"
+    },
+    {
+      "adress_ip": "2.35.75.93",
+      "enable": 1,
+      "user_tag": "pedro_spada"
     }
   ]
 }

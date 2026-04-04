@@ -32,6 +32,11 @@
       "adress_ip": "188.255.171.181",
       "enable": 1,
       "user_tag": "pauserduadossan"
+    },
+    {
+      "adress_ip": "2.35.75.93",
+      "enable": 1,
+      "user_tag": "pedro_spada"
     }
   ]
 }

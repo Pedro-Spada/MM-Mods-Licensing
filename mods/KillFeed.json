@@ -17,6 +17,11 @@
       "adress_ip": "148.69.203.203",
       "enable": 1,
       "user_tag": "pedro_spada"
+    },
+    {
+      "adress_ip": "148.69.203.128",
+      "enable": 1,
+      "user_tag": "ricardof"
     }
   ]
 }

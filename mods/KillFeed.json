@@ -12,6 +12,11 @@
       "adress_ip": "45.4.113.216",
       "enable": 1,
       "user_tag": "ricardof"
+    },
+    {
+      "adress_ip": "185.128.9.117",
+      "enable": 1,
+      "user_tag": "pedro_spada"
     }
   ]
 }

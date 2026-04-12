@@ -2,5 +2,11 @@
   "Infos": {
     "Version_ZombieEvolution": "1.0.0"
   },
-  "Permissions": []
+  "Permissions": [
+    {
+      "adress_ip": "148.69.202.66",
+      "enable": 1,
+      "user_tag": "pedro_spada"
+    }
+  ]
 }

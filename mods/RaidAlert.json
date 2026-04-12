@@ -2,5 +2,11 @@
   "Infos": {
     "Version_RaidAlert": "1:0"
   },
-  "Permissions": []
+  "Permissions": [
+    {
+      "adress_ip": "148.69.192.214",
+      "enable": 1,
+      "user_tag": "pedro_spada"
+    }
+  ]
 }

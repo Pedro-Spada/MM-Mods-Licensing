@@ -37,6 +37,11 @@
       "adress_ip": "45.4.113.216",
       "enable": 1,
       "user_tag": "ricardof"
+    },
+    {
+      "adress_ip": "45.94.208.71",
+      "enable": 1,
+      "user_tag": "pedro_spada"
     }
   ]
 }
